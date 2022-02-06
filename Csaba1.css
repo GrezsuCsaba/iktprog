@@ -1,0 +1,72 @@
+#kezdes {
+    font-family: 'Teko', sans-serif;
+    background-color: rgb(30, 0, 112);
+}
+
+body {
+    font-family: 'Teko', sans-serif;
+    background-color: rgb(2, 39, 73);
+    color: white;
+    width: auto;
+}
+
+#metro {
+    width: 133.4%;
+    height: 133.4%;
+}
+
+#stalker {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.card_{
+    float: right;
+    max-width: 250px;
+    min-width: 150px;
+    background-color: white;
+}
+
+.card-text {
+    color: black;
+}
+
+#tortenet{
+    background-color: darkblue;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+    list-style-type: disc;
+}
+
+#mod {
+    font-weight: bold;
+    font-size: 150%;
+}
+
+#vege{
+    margin-top: 100px;
+}
+
+#li_{
+    margin-bottom: 25px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
