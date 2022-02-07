@@ -1,6 +1,6 @@
 #kezdes {
     font-family: 'Teko', sans-serif;
-    background-color: rgb(30, 0, 112);
+    background-color: rgb(138, 138, 138);
 }
 
 a {
@@ -54,21 +54,19 @@ h6 {
     border: 3px solid yellow;
 }
 
-#table_ {
-    border: 3px solid yellow;
-    width: 100%;
-    margin-bottom: 25px;
-}
-
 footer {
     text-align: center;
     color: white;
 }
 
 #egy_picit_a_temarol {
+    border: 3px solid black;
+    width: 100%;
+    margin-bottom: 25px;
     font-size: 150%;
     font-weight: bold;
     color: white;
+    padding: 20px;
 }
 
 #bemutatkozas {
