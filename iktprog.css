@@ -4,6 +4,16 @@
     font-family: 'Klee One', cursive;
 }
 
+#carouselExampleIndicators {
+    border: 3px solid black;
+    width: 100%;
+    margin-bottom: 25px;
+    font-size: 150%;
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+}
+
 a {
     color: white;
 }
