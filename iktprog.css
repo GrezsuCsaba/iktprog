@@ -1,16 +1,20 @@
+body {
+    background-color: rgb(138, 138, 138);
+}
+
 #kezdes {
     font-family: 'Teko', sans-serif;
-    background-color: rgb(138, 138, 138);
     font-family: 'Klee One', cursive;
 }
 
-#carouselExampleIndicators {
+.container-fluid {
     border: 3px solid black;
     width: 100%;
     margin-bottom: 25px;
     font-size: 150%;
     color: white;
     padding: 20px;
+    background-color: rgb(3, 172, 3);
 }
 
 a {
@@ -56,12 +60,16 @@ h6 {
     font-weight: bold;
     color: white;
     text-align: center;
+    border: 3px solid black;
+    width: 100%;
+    margin-bottom: 25px;
+    padding: 20px;
 }
 
 #bemutatkozas {
     margin: 20px;
     list-style-type: square;
-    border: 3px solid yellow;
+    background-color: purple;
 }
 
 footer {
