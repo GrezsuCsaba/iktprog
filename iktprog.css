@@ -18,7 +18,7 @@ body {
     font-size: 150%;
     color: white;
     padding: 20px;
-    background-color: rgb(3, 172, 3);
+    background-color: rgb(82, 68, 110);
 }
 
 a {
@@ -73,7 +73,7 @@ h6 {
 #bemutatkozas {
     margin: 20px;
     list-style-type: square;
-    background-color: purple;
+    background-color: rgb(82, 68, 110);
 }
 
 footer {
@@ -93,4 +93,8 @@ footer {
 
 #bemutatkozas {
     margin: auto;
+}
+
+#a{
+    color: white;
 }
