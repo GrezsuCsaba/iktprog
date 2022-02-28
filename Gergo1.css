@@ -1,11 +1,16 @@
-#oldal {
+#kezdes {
     font-family: 'Teko', sans-serif;
-    background-color: rgb(30, 0, 112);
+    font-family: 'Klee One', cursive;
+    background-color: rgb(138, 138, 138);
 }
+
 
 body {
     font-family: 'Teko', sans-serif;
-    background-color: rgb(2, 39, 73);
+    background-color: rgb(138, 138, 138);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: white;
     width: auto;
 }
