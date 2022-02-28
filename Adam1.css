@@ -15,12 +15,12 @@ body {
     width: auto;
 }
 
-#CSGO {
+#metro {
     width: 133.4%;
     height: 133.4%;
 }
 
-#Valorant {
+#stalker {
     width: 100%;
     height: 100%;
 }
@@ -81,5 +81,15 @@ footer {
 }
 
 #a{
+    color: white;
+}
+
+#aloldalmenu {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.aloldallink {
     color: white;
 }
