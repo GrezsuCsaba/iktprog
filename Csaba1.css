@@ -98,3 +98,8 @@ footer {
 .aloldallink:hover {
     color: rgb(6, 153, 23)
 }
+
+table {
+    color: hotpink; 
+    background-color: hotpink;
+}
