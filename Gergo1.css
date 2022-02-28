@@ -9,3 +9,18 @@ body {
     color: white;
     width: auto;
 }
+
+#aloldalmenu {
+    background-color: rgb(77, 77, 77);
+    color: white;
+    text-align: center;
+}
+
+.aloldallink {
+    color: white;
+    text-decoration: none;
+}
+
+.aloldallink:hover {
+    color: rgb(6, 153, 23)
+}
