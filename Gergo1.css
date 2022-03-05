@@ -1,7 +1,7 @@
 #kezdes {
     font-family: 'Teko', sans-serif;
     font-family: 'Klee One', cursive;
-    background-color: rgb(138, 138, 138);
+    background-color: rgb(83, 83, 83);
 }
 
 
@@ -13,6 +13,75 @@ body {
     background-size: cover;
     color: white;
     width: auto;
+}
+
+#tortenet{
+    background-color: rgb(56, 61, 71);
+    border: 3px solid black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card_{
+    float: right;
+    max-width: 250px;
+    min-width: 150px;
+    background-color: white;
+}
+
+.card-text {
+    color: black;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+    list-style-type: disc;
+}
+
+#osszehas {
+    font-weight: bold;
+    font-size: 150%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+#vege{
+    margin-top: 50px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
+
+.dolgok{
+    background-color: rgb(56, 61, 71);
+    border: 3px solid rgb(6, 153, 23);
+    color: white;
+}
+
+.bekezdes {
+    background-color: rgb(56, 61, 71);
+    border: 3px solid black;
+}
+
+#UwU {
+    background-color: rgba(1, 114, 1, 0.233);
+    color: white;
+    margin-right: 270px;
+}
+
+#sliderkep {
+    border: 10px solid rgb(6, 153, 23);
+    height: 480px;
 }
 
 #aloldalmenu {
@@ -28,4 +97,17 @@ body {
 
 .aloldallink:hover {
     color: rgb(6, 153, 23)
+}
+
+#TwT {
+    border-radius: 0%;
+    width: 200px;
+}
+
+#lolkep {
+    width: 300px;
+}
+
+#hotskep {
+    width: 300px;
 }
