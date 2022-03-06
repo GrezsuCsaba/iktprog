@@ -34,6 +34,11 @@ h2 {
     color: white;
 }
 
+h4{
+    color: white;
+    font-size: medium;
+}
+
 #kep{
     border-radius: 0%;
     width: 200px;
