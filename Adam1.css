@@ -68,11 +68,7 @@ ul {
 }
 
 #vege{
-    margin-top: 100px;
-}
-
-#li_{
-    margin-bottom: 100px;
+    margin-top: 50px;
 }
 
 footer {
@@ -97,4 +93,53 @@ footer {
 
 .aloldallink:hover {
     color: rgb(6, 153, 23)
+}
+
+#li_{
+    color: white;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
+
+#a{
+    color: white;
+}
+
+#aloldalmenu {
+    background-color: rgb(77, 77, 77);
+    color: white;
+    text-align: center;
+}
+
+.aloldallink {
+    color: white;
+    text-decoration: none;
+}
+
+.aloldallink:hover {
+    color: rgb(6, 153, 23)
+}
+
+.dolgok{
+    background-color: rgb(56, 61, 71);
+    border: 3px solid rgb(6, 153, 23);
+    color: white;
+}
+
+.bekezdes {
+    background-color: rgb(56, 61, 71);
+    border: 3px solid black;
+}
+
+#UwU {
+    background-color: rgba(1, 114, 1, 0.233);
+    color: white;
+    margin-right: 270px;
+}
+
+#TwT {
+    border-radius: 0%;
 }
