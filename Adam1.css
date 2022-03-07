@@ -1,7 +1,7 @@
 #kezdes {
     font-family: 'Teko', sans-serif;
     font-family: 'Klee One', cursive;
-    background-color: rgba(166, 118, 118);
+    background-color: rgb(166, 118, 118);
 }
 
 
@@ -136,7 +136,7 @@ footer {
 }
 
 .aloldallink:hover {
-    color: rgb(70, 65, 65);
+    color:  rgb(166, 118, 118);
 }
 
 .dolgok{
